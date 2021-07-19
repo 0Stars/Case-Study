@@ -1,0 +1,102 @@
+
+.header_div{
+background: white;
+color: black;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.header_div img{
+width: 100px;
+}
+
+.main_div{
+background: deepskyblue;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+margin-left: 450px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.main_div label{
+background: white;
+width: 310px;
+padding: 10px;
+margin-bottom: 0px;
+box-shadow: 5px 5px 18px black;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.wolfram, .MobileNet{
+border: 2px solid white;
+width: 310px;
+height: 300px;
+box-shadow: 5px 5px 18px black;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.list{
+margin-right: 10px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.normal_img{
+height: 350px;
+width: 350px;
+}
+
+.special_img{
+height: 300px;
+width: 400px;
+}
+
+#final_result{
+margin-top: 100px;
+font-size: 25px;
+background: deepskyblue;
+padding: 10px;
+margin-top: 15px;
+border: 3px solid white;
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h4 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h5 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h6 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+b {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+u {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button {
+    font-family: 'Ubuntu', sans-serif;
+}
+
